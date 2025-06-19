@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Eren Bostan</h1>
-<h3 align="center">A Computer Engineering graduate passionate about Computer Vision, Embedded Systems, and Linux-based Networking.</h3>
+<h3 align="center">A Computer Engineering graduate passionate about Computer Vision</h3>
 
 ---
 
@@ -16,12 +16,12 @@
 ### 🔭 I’m currently working on
 - Real-Time Object Detection with **YOLOv11**
 - Integrating **DeepSORT** and tracking systems
-- Raspberry Pi-based **intelligent recycling system**
+
 
 ### 🌱 I’m currently learning
 - Supervision & Ultralytics libraries
 - DeepSORT & object tracking pipelines
-- Linux networking tools (tcpdump, Wireshark, iptables)
+
 
 ### 💬 Ask me about
 **Computer Vision** • **YOLO** • **Roboflow** • **Raspberry Pi** • **OpenCV**
